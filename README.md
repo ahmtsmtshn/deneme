@@ -1,0 +1,2 @@
+# deneme
+github'a giriş
